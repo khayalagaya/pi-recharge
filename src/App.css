@@ -6,6 +6,9 @@
 button {
   padding: 10px 20px;
   font-size: 16px;
+  background-color: #f7bc0b;
+  border: none;
+  border-radius: 6px;
   cursor: pointer;
 }
 
